@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanim Hossain</h1>
 <h3 align="center">Competitive Programmer | East West University</h3>
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l28sfwueiueeis92zd7972f2cug7ouukq0rcwzns&ep=v1_gifs_search&rid=giphy.gif&ct=g")
 
 - 🔭 I’m currently studying at East West University
 - 📫 How to reach me **sanimhossain2001@gmail.com**
